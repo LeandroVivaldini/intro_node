@@ -63,7 +63,8 @@ for (let index = 1; index <= 3; index++) {
     if (senha === snDg) {
         snCorreeta = true;
         break
-}
+    };
+};
 sonsole.log(snCorreta ? 'Acesso autorizado' : 'Acesso negado');
-entrada()
+
 //-------------------------------------------------------------
